@@ -9,7 +9,7 @@ export default ({route, navigation}) => {
   return (
     <View style={styles.form}>
       <View>
-        <Text>Name</Text>
+        <Text>Nome</Text>
         <TextInput
           style={styles.input}
           onChangeText={(name) => setUser({ ...user, name })}
