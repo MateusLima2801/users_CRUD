@@ -18,10 +18,11 @@
 </div>
 <style>
 div.box {
-	width: 150px;
+	width: 20%;
 	display: inline-block;
     padding-horizontal: 20px;
     font-size: 20px;
     text-align: center;
+    justify-content: space-between
 }
 </style>
