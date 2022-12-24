@@ -1,0 +1,23 @@
+{
+	"View Component": {
+		"scope": "javascript",
+		"prefix": "viewcomp",
+		"body": [
+			"import React from 'react'",
+			"import { View, StyleSheet } from 'react-native'",
+			"",
+			"export default props => {",
+			"    return (",
+			"        <View>",
+			"             $1",
+			"        </View>",
+			"    )",
+			"}",
+			"",
+			"const styles = StyleSheet.create({",
+			"",
+			"})"
+		],
+		"description": "Log output to console"
+	}
+}
